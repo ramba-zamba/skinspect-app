@@ -26,6 +26,7 @@ Two CNN models based on EfficientNet-B1 are provided. Both perform binary classi
 - **BAD** → suspicious / may need medical review  
 
 ### effb1_stage6b_float32 (balanced)
+**Download** → from Google Storage: https://storage.googleapis.com/skinspect-app/effb1_stage6b_float32.tflite
 
 | Metric | Value |
 |------|------|
@@ -44,6 +45,7 @@ Two CNN models based on EfficientNet-B1 are provided. Both perform binary classi
 ---
 
 ### effb1_stage6_float32 (more sensitive)
+**Download** → from Google Storage: https://storage.googleapis.com/skinspect-app/effb1_stage6_float32.tflite
 
 | Metric | Value |
 |------|------|
@@ -80,6 +82,7 @@ For consumer skin-screening use, **higher sensitivity is generally safer**, as f
 A signed Android **release APK** is included for local installation.
 
 ### Installation notes
+-  Download from Google Storage (Account required): https://storage.googleapis.com/skinspect-app/app-release.apk 
 - Android 5.0+ (minSdk 21)
 - Enable **“Install unknown apps”** on your device
 - If upgrading from a debug build, uninstall the old version first
