@@ -1,4 +1,4 @@
-# SkinSpect <img width="120" height="120" alt="logo" src="https://github.com/user-attachments/assets/e9e7fe95-9477-42b2-8748-00554092051d" />
+<img width="80" height="80" alt="logo" src="https://github.com/user-attachments/assets/e9e7fe95-9477-42b2-8748-00554092051d" /> # SkinSpect 
 
 
 **SkinSpect** is an experimental, on-device Android app that provides **automated image analysis of skin lesion photos** for **awareness and screening support**.
